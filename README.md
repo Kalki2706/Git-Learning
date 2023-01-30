@@ -1,2 +1,3 @@
 # Git-Learning
-Gonna learn git commands
+
+Have learnt some very basic commands, Need to learn more.
