@@ -1,8 +1,8 @@
 What is Git? 
-=> Free & open source version control system.
+=> Free & Open Source Version Control System.
 
-Whats is version control?
-=> The management of changes to documents, computer programs, large web sites, and other collections of information.
+What is Version Control?
+=> The management of changes to documents, computer programs, large web-sites, and other collections of information.
 
 Terms 
 
@@ -20,5 +20,5 @@ Git commands
 clone - Bring a repository that is hosted somewhere like Github into a folder on your local machine
 add - Track your files and changes in Git
 commit - Save your files in Git
-push -Upload Git commits to a remote repo, like Github
+push - Upload Git commits to a remote repo, like Github
 pull - Download changes from remote repo to your local machine, the opposite of push
