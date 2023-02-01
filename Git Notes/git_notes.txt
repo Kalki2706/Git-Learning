@@ -12,11 +12,11 @@ Terms:-
 5) Code Editor - Word Processor for Writing Code
 6) Repository - Project or the folder/place where your project is kept 
 7) Github - A website to host your repositories online 
-8) md - MarkDown ("It's an easy way to format text files in any type of file")
+8) MD - MarkDown ("It's an easy way to format text files in any type of file")
 
-Git Commands :-
+Git Commands:-
 1) clone - Bring a repository that is hosted somewhere like Github into a folder on your local machine
-2)add - Track your files and changes in Git
+2) add - Track your files and changes in Git
 3) commit - Save your files in Git
 4) push - Upload Git commits to a remote repo, like Github
 5) pull - Download changes from remote repo to your local machine, the opposite of push
