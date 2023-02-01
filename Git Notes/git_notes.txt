@@ -4,19 +4,17 @@ What is Git?
 What is Version Control?
 => The management of changes to documents, computer programs, large web-sites, and other collections of information.
 
-Terms 
-
+Terms :-
 Directory - Folder 
 Terminal or Command line - Interface for text commands
-CLI - Command line interface
+CLI - Command Line Interface
 CD - Change Directory
 Code Editor - Word Processor for Writing Code
 Repository - Project or the folder/place where your project is kept 
 Github - A website to host your repositories online 
 md - MarkDown ("It's an easy way to format text files in any type of file")
 
-Git commands
-
+Git Commands :-
 clone - Bring a repository that is hosted somewhere like Github into a folder on your local machine
 add - Track your files and changes in Git
 commit - Save your files in Git
